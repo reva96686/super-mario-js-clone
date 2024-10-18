@@ -26,3 +26,4 @@ Open your browser with URL: http://localhost:8080
 - Arrow up - jump
 - Space - turbo
 Mario Space Moonn x1
+Mario Space Moonn x2
